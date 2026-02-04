@@ -1,4 +1,4 @@
- ✅ HPA
+ ✅ HPA \n
  ✅ PodDisruptionBudget
  ✅ Anti-affinity
  ✅ NetworkPolicies
